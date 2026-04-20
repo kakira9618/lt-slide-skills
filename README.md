@@ -1,5 +1,8 @@
 # LTスライド作成Skill
 
+- [作例](https://kakira9618.github.io/vector_based_ai_development/)
+- [作例のリポジトリ](https://github.com/kakira9618/vector_based_ai_development)
+
 markdown に骨子を書いて、AIに「main.md を元にLTスライド作って」など指示することで、簡単にLT向けのスライドが作れます。
 
 ## Claude Code Skill としての使い方
